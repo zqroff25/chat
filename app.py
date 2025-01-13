@@ -23,14 +23,15 @@ st.markdown("""
     padding: 10px;
     margin: 5px 0;
     border-radius: 15px;
+    color: white;
 }
 .user-message {
-    background-color: #e3f2fd;
+    background-color: #1976D2;
     margin-left: 20%;
     margin-right: 5%;
 }
 .other-message {
-    background-color: #f5f5f5;
+    background-color: #424242;
     margin-left: 5%;
     margin-right: 20%;
 }
