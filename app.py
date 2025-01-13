@@ -26,12 +26,12 @@ st.markdown("""
     color: white;
 }
 .user-message {
-    background-color: #1976D2;
+    background-color: black;
     margin-left: 20%;
     margin-right: 5%;
 }
 .other-message {
-    background-color: #424242;
+    background-color: black;
     margin-left: 5%;
     margin-right: 20%;
 }
